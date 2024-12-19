@@ -18,7 +18,7 @@ StackFlow is a web application designed to help developers and project managers 
 
 ## UI Preview
 
-![UI Preview](https://github.com/user-attachments/assets/b5ed45dc-facf-479e-ae8b-a85f82149e2d))
+![UI Preview](https://github.com/user-attachments/assets/b5ed45dc-facf-479e-ae8b-a85f82149e2d)
 
 ---
 
